@@ -53,3 +53,5 @@ rsconnect/
 src/*.o
 src/*.so
 src/*.dll
+assignment_2/code/*_cache/
+assignment_2/code/*_files/
